@@ -48,8 +48,8 @@ What creative support will be needed? (e.g. signage, presentations, branding, st
 
 ‣ 8. Venue & Logistics Needs  
 What are the functional requirements?  
-- # of meeting days:  
-- # of overnight guests:  
+- Number of meeting days:  
+- Number of overnight guests:  
 - Meeting space needed: (main session, breakouts, reception?)  
 - Food & Beverage needs: (breakfast, lunch, reception?)  
 - AV/Tech: (projectors, microphones, music, live stream?)  
